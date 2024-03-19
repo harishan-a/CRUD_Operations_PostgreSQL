@@ -3,6 +3,10 @@ This Java application demonstrates CRUD (Create, Read, Update, Delete) operation
 Name: Harishan Amutheesan
 StudentID: 101154757
 
+### Link to Demo Video
+Only Accessable to Carleton University Accounts
+[Demo Video](https://cmailcarletonca-my.sharepoint.com/:v:/g/personal/harishanamutheesan_cmail_carleton_ca/EWNnOAV_mjBMrQhihJzhMyUBYP9RT5RYRiLDpmgdW7lv_Q)
+
 ### Application Functions
 - View Initial Data: Retrieves and displays all student records.
 - Add a New Student: Inserts a new student record into the database.
